@@ -1,0 +1,1 @@
+Basic string join function and test to practice testing in go.
